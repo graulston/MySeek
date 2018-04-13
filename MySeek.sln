@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySeek.Server", "MySeek.Ser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySeek.Server.Tests", "MySeek.Server.Tests\MySeek.Server.Tests.csproj", "{FA2C443C-7AC4-41EE-9853-D683485254FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySeek.Client", "MySeek.Client\MySeek.Client.csproj", "{0BCEC0FA-EF8C-463C-9ECA-4E6A4A2C85D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySeek.Client.Tests", "MySeek.Client.Tests\MySeek.Client.Tests.csproj", "{04012858-5760-41C6-B214-47D3A955D5BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FA2C443C-7AC4-41EE-9853-D683485254FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA2C443C-7AC4-41EE-9853-D683485254FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA2C443C-7AC4-41EE-9853-D683485254FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCEC0FA-EF8C-463C-9ECA-4E6A4A2C85D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCEC0FA-EF8C-463C-9ECA-4E6A4A2C85D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCEC0FA-EF8C-463C-9ECA-4E6A4A2C85D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCEC0FA-EF8C-463C-9ECA-4E6A4A2C85D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04012858-5760-41C6-B214-47D3A955D5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04012858-5760-41C6-B214-47D3A955D5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04012858-5760-41C6-B214-47D3A955D5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04012858-5760-41C6-B214-47D3A955D5BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
